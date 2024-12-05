@@ -7,3 +7,6 @@ Centralized ticket management using a Kanban board.
 Custom workflows for issue tracking.
 Priority assignment for effective resolution.
 Visibility into ticket status through a list view and board view.
+
+
+Project Screenshots
