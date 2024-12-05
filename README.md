@@ -10,3 +10,7 @@ Visibility into ticket status through a list view and board view.
 
 
 Project Screenshots
+
+Board View
+This is the primary view of the ticket management system, showcasing the status of various tickets.
+Screenshot
